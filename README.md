@@ -1,4 +1,5 @@
-# movie-rental-js [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# movie-rental-js [![aquaraga](https://circleci.com/gh/aquaraga/movie-rental-js.svg?style=svg)](https://circleci.com/gh/aquaraga/movie-rental-js)
+
 > Refactoring example by Martin Fowler
 
 ## Installation
@@ -17,7 +18,3 @@ movieRentalJs('Rainbow');
 ## License
 
 MIT © [Kumar](https://www.linkedin.com/in/aquaraga/)
-
-
-[travis-image]: https://travis-ci.com/aquaraga/movie-rental-js.svg?branch=master
-[travis-url]: https://travis-ci.com/aquaraga/movie-rental-js
