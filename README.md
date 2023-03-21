@@ -2,19 +2,6 @@
 
 > Refactoring example by Martin Fowler
 
-## Installation
-
-```sh
-$ npm install --save movie-rental-js
-```
-
-## Usage
-
-```js
-const movieRentalJs = require('movie-rental-js');
-
-movieRentalJs('Rainbow');
-```
 ## License
 
 MIT © [Kumar](https://www.linkedin.com/in/aquaraga/)
